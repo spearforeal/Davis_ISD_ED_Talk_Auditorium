@@ -1,0 +1,26 @@
+{
+    "SystemConfig":{
+        "SystemName":["Ed Talk Auditorium"],
+        "CustomerNumber":["5511"],
+
+        "Mode1Name":["Routing"],
+        "Mode1Icon":["Connector Plate"],
+        "Mode1Visible":["True"],
+
+        "Mode2Name":["Audio Control"],
+        "Mode2Icon":["Volume"],
+        "Mode2Visible":["True"],
+
+        "Mode3Name":["Display Control"],
+        "Mode3Icon":["TV"],
+        "Mode3Visible":["True"],
+
+        "Mode4Name":["Routing"],
+        "Mode4Icon":["Connector Plate"],
+        "Mode4Visible":["False"],
+
+        "Mode5Name":["Routing"],
+        "Mode5Icon":["Connector Plate"],
+        "Mode5Visible":["False"],
+    }
+}
