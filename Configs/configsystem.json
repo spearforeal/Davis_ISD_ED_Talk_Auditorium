@@ -22,5 +22,90 @@
         "Mode5Name":["Routing"],
         "Mode5Icon":["Connector Plate"],
         "Mode5Visible":["False"],
+
+        "Source1Name":["Source1"],
+        "Source1Icon":["Laptop"],
+        "Source1Visible":["True"],
+
+        "Source2Name":["Source2"],
+        "Source2Icon":["Laptop"],
+        "Source2Visible":["True"],
+
+        "Source3Name":["Source3"],
+        "Source3Icon":["Laptop"],
+        "Source3Visible":["True"],
+
+        "Source4Name":["Source4"],
+        "Source4Icon":["Laptop"],
+        "Source4Visible":["True"],
+
+        "Source5Name":["Source5"],
+        "Source5Icon":["Laptop"],
+        "Source5Visible":["True"],
+
+        "Source6Name":["Source6"],
+        "Source6Icon":["Laptop"],
+        "Source6Visible":["True"],
+
+        "Source7Name":["Source7"],
+        "Source7Icon":["Laptop"],
+        "Source7Visible":["True"],
+
+        "Source8Name":["Source8"],
+        "Source8Icon":["Laptop"],
+        "Source8Visible":["True"],
+
+        "Source9Name":["Source9"],
+        "Source9Icon":["Laptop"],
+        "Source9Visible":["True"],
+
+        "Source10Name":["Source10"],
+        "Source10Icon":["Laptop"],
+        "Source10Visible":["True"],
+
+        "Dest1Name":["Dest 1"],
+        "Dest1Visible":["True"],
+
+        "Dest2Name":["Dest 2"],
+        "Dest2Visible":["True"],
+
+        "Dest3Name":["Dest 3"],
+        "Dest3Visible":["True"],
+
+        "Dest4Name":["Dest 4"],
+        "Dest4Visible":["True"],
+
+        "Dest5Name":["Dest 5"],
+        "Dest5Visible":["True"],
+
+        "Dest6Name":["Dest 6"],
+        "Dest6Visible":["True"],
+
+        "Dest7Name":["Dest 7"],
+        "Dest7Visible":["True"],
+
+        "Dest8Name":["Dest 8"],
+        "Dest8Visible":["True"],
+
+        "Dest9Name":["Dest 9"],
+        "Dest9Visible":["True"],
+
+        "Dest10Name":["Dest 10"],
+        "Dest10Visible":["True"],
+
+        "Dest11Name":["Dest 11"],
+        "Dest11Visible":["True"],
+
+        "Dest12Name":["Dest 12"],
+        "Dest12Visible":["True"],
+
+        "Dest13Name":["Dest 13"],
+        "Dest13Visible":["True"],
+
+        "Dest14Name":["Dest 14"],
+        "Dest14Visible":["True"],
+
+        "Dest15Name":["Dest 15"],
+        "Dest15Visible":["True"]
     }
 }

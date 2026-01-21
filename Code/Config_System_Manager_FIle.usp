@@ -30,7 +30,7 @@ File_Name[30], Storage_Location[10], Program_Name[25], File_Mode[2], File_Encodi
    { "RM2" , "Removable Media 2 (USB)" }  ,{ "MMC" , "Multimedia Card" } , { "USER" , "User" };
 #END_PARAMETER_PROPERTIES
 
-BEGIN_PARAMETER_PROPERTIES Program_Name
+#BEGIN_PARAMETER_PROPERTIES Program_Name
    propValidUnits = unitString;
    propDefaultUnit = unitString;
    propDefaultValue = "Main";
