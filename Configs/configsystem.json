@@ -2,6 +2,7 @@
     "SystemConfig":{
         "SystemName":["Ed Talk Auditorium"],
         "CustomerNumber":["5511"],
+        "WelcomeText":["Press anywhere to start."],
 
         "Mode1Name":["Routing"],
         "Mode1Icon":["Connector Plate"],
@@ -106,6 +107,36 @@
         "Dest14Visible":["True"],
 
         "Dest15Name":["Dest 15"],
-        "Dest15Visible":["True"]
+        "Dest15Visible":["True"],
+
+        "AudioCtrl1SideMenuName":["Line Controls"],
+        "AudioCtrl1SideMenuVisible":["True"],
+
+        "AudioCtrl2SideMenuName":["Mic Controls"],
+        "AudioCtrl2SideMenuVisible":["True"],
+
+        "AudioCtrl3SideMenuName":["Mic Controls"],
+        "AudioCtrl3SideMenuVisible":["True"],
+
+        "AudioCtrl4SideMenuName":["Mic Controls"],
+        "AudioCtrl4SideMenuVisible":["True"],
+
+        "AudioCtrl5SideMenuName":["Mic Controls"],
+        "AudioCtrl5SideMenuVisible":["True"],
+
+        "AudioCtrl1Name":["Program"],
+        "AudioCtrl1Visible":["True"],
+
+        "AudioCtrl2Name":["Program"],
+        "AudioCtrl2Visible":["True"],
+
+        "AudioCtrl3Name":["Program"],
+        "AudioCtrl3Visible":["True"],
+
+        "AudioCtrl4Name":["Program"],
+        "AudioCtrl4Visible":["True"],
+
+        "AudioCtrl5Name":["Program"],
+        "AudioCtrl5Visible":["True"]
     }
 }
