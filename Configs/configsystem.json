@@ -113,16 +113,16 @@
         "AudioCtrl1SideMenuVisible":["True"],
 
         "AudioCtrl2SideMenuName":["Mic Controls"],
-        "AudioCtrl2SideMenuVisible":["True"],
+        "AudioCtrl2SideMenuVisible":["False"],
 
         "AudioCtrl3SideMenuName":["Mic Controls"],
-        "AudioCtrl3SideMenuVisible":["True"],
+        "AudioCtrl3SideMenuVisible":["false"],
 
         "AudioCtrl4SideMenuName":["Mic Controls"],
-        "AudioCtrl4SideMenuVisible":["True"],
+        "AudioCtrl4SideMenuVisible":["false"],
 
         "AudioCtrl5SideMenuName":["Mic Controls"],
-        "AudioCtrl5SideMenuVisible":["True"],
+        "AudioCtrl5SideMenuVisible":["false"],
 
         "AudioCtrl1Name":["Program"],
         "AudioCtrl1Visible":["True"],
@@ -137,6 +137,19 @@
         "AudioCtrl4Visible":["True"],
 
         "AudioCtrl5Name":["Program"],
-        "AudioCtrl5Visible":["True"]
+        "AudioCtrl5Visible":["True"],
+
+        "AudioCtrl6Name":["Program"],
+        "AudioCtrl6Visible":["True"],
+
+        "AudioCtrl7Name":["Program"],
+        "AudioCtrl7Visible":["True"],
+
+        "AudioCtrl8Name":["Program"],
+        "AudioCtrl8Visible":["True"],
+
+        "Display1Name":["Projector"],
+        "Display1Visible":["True"],
+        "Display1IsProjector":["True"]
     }
 }
