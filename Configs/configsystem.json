@@ -3,6 +3,8 @@
         "SystemName":["Ed Talk Auditorium"],
         "CustomerNumber":["5511"],
         "WelcomeText":["Press anywhere to start."],
+        "LockoutText":["Please use booth touchpanel"],
+        "SimpleRoutingInstructions":["Some really long text about routing and something or another"],
 
         "Mode1Name":["Routing"],
         "Mode1Icon":["Connector Plate"],
@@ -64,50 +66,50 @@
         "Source10Icon":["Laptop"],
         "Source10Visible":["True"],
 
-        "Dest1Name":["Dest 1"],
+        "Dest1Name":["Video Wall 1"],
         "Dest1Visible":["True"],
 
-        "Dest2Name":["Dest 2"],
+        "Dest2Name":["Video Wall 2"],
         "Dest2Visible":["True"],
 
-        "Dest3Name":["Dest 3"],
+        "Dest3Name":["Projector"],
         "Dest3Visible":["True"],
 
-        "Dest4Name":["Dest 4"],
+        "Dest4Name":["Conf Monitor 1"],
         "Dest4Visible":["True"],
 
-        "Dest5Name":["Dest 5"],
+        "Dest5Name":["Conf Monitor 2"],
         "Dest5Visible":["True"],
 
-        "Dest6Name":["Dest 6"],
+        "Dest6Name":["Office TV"],
         "Dest6Visible":["True"],
 
-        "Dest7Name":["Dest 7"],
+        "Dest7Name":["Booth 1"],
         "Dest7Visible":["True"],
 
-        "Dest8Name":["Dest 8"],
+        "Dest8Name":["Booth 2"],
         "Dest8Visible":["True"],
 
-        "Dest9Name":["Dest 9"],
+        "Dest9Name":["Booth 3"],
         "Dest9Visible":["True"],
 
-        "Dest10Name":["Dest 10"],
+        "Dest10Name":["Booth 4"],
         "Dest10Visible":["True"],
 
-        "Dest11Name":["Dest 11"],
+        "Dest11Name":["Booth 5"],
         "Dest11Visible":["True"],
 
-        "Dest12Name":["Dest 12"],
+        "Dest12Name":["Booth 6"],
         "Dest12Visible":["True"],
 
-        "Dest13Name":["Dest 13"],
+        "Dest13Name":["Booth 7"],
         "Dest13Visible":["True"],
 
-        "Dest14Name":["Dest 14"],
+        "Dest14Name":["Booth 8"],
         "Dest14Visible":["True"],
 
         "Dest15Name":["Dest 15"],
-        "Dest15Visible":["True"],
+        "Dest15Visible":["False"],
 
         "AudioCtrl1SideMenuName":["Line Controls"],
         "AudioCtrl1SideMenuVisible":["True"],
@@ -150,6 +152,9 @@
 
         "Display1Name":["Projector"],
         "Display1Visible":["True"],
-        "Display1IsProjector":["True"]
+        "Display1IsProjector":["True"],
+
+        "Preset1Name":["Auto"],
+        "Preset2Name":["Manual"]
     }
 }

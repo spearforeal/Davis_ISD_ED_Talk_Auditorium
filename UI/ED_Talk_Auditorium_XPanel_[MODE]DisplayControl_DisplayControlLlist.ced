@@ -10,7 +10,7 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=ED_Talk_Auditorium_XPanel_[MODE]DisplayControl_DisplayControlLlist.ced
 Hint=DisplayControlLlist (Smart Object ID=10)
-Code=10
+Code=11
 SGControlType=Subpage Reference List Horizontal
 SGControlName=DisplayControlLlist
 GUID=63A9FC58-BE3C-4EB3-AE6F-79971C091148
@@ -208,14 +208,14 @@ OutputList3SigType13=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=10
-CedH=10
+Pp1=11
+CedH=11
 SmartObjId=10d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=10
+H=11
 Tp=1
 HD=TRUE
 DV=10d
@@ -228,7 +228,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=10
+H=11
 Name=ED_Talk_Auditorium_XPanel_[MODE]DisplayControl_DisplayControlLlist.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.

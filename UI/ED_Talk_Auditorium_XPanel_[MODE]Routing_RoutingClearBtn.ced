@@ -10,7 +10,7 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=ED_Talk_Auditorium_XPanel_[MODE]Routing_RoutingClearBtn.ced
 Hint=RoutingClearBtn (Smart Object ID=4)
-Code=4
+Code=5
 SGControlType=Subpage Reference List Vertical
 SGControlName=RoutingClearBtn
 GUID=24639C9F-0186-428B-A8AA-1A770A4BA75F
@@ -196,14 +196,14 @@ OutputList3SigType14=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=4
-CedH=4
+Pp1=5
+CedH=5
 SmartObjId=4d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=4
+H=5
 Tp=1
 HD=TRUE
 DV=4d
@@ -216,7 +216,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=4
+H=5
 Name=ED_Talk_Auditorium_XPanel_[MODE]Routing_RoutingClearBtn.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
