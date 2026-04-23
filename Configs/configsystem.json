@@ -18,9 +18,9 @@
         "Mode3Icon":["TV"],
         "Mode3Visible":["True"],
 
-        "Mode4Name":["Routing"],
-        "Mode4Icon":["Connector Plate"],
-        "Mode4Visible":["False"],
+        "Mode4Name":["Camera Control"],
+        "Mode4Icon":["Camera"],
+        "Mode4Visible":["True"],
 
         "Mode5Name":["Routing"],
         "Mode5Icon":["Connector Plate"],
