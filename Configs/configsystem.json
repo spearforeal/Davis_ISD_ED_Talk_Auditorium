@@ -155,6 +155,24 @@
         "Display1IsProjector":["True"],
 
         "Preset1Name":["Auto"],
-        "Preset2Name":["Manual"]
+        "Preset2Name":["Manual"],
+
+        "Camera1Name":["Camera1"],
+        "Camera1Visible":["True"],
+
+        "Camera2Name":["Camera2"],
+        "Camera2Visible":["True"],
+
+        "CameraTopLeftCtrlName":["Zoom +"],
+        "CameraTopLeftCtrlVisible":["True"],
+        "CameraTopLeftCtrlIcon":[61],
+
+        "CameraTopRightCtrlName":["Zoom -"],
+        "CameraTopRightCtrlVisible":["True"],
+        "CameraTopRightCtrlIcon":[61],
+
+
+
+
     }
 }
