@@ -109,7 +109,10 @@
         "Dest14Visible":["True"],
 
         "Dest15Name":["Dest 15"],
-        "Dest15Visible":["False"],
+        "Dest15Visible":["True"],
+
+        "Dest16Name":["Dest 16"],
+        "Dest16Visible":["True"],
 
         "AudioCtrl1SideMenuName":["Line Controls"],
         "AudioCtrl1SideMenuVisible":["True"],
@@ -201,7 +204,10 @@
         "CameraPreset3Visible":["True"],
 
         "CameraPreset4Name":["Preset 4"],
-        "CameraPreset4Visible":["True"]
+        "CameraPreset4Visible":["True"],
+
+        "CameraPreset5Name":["Preset 5"],
+        "CameraPreset5Visible":["True"]
 
 
     }
