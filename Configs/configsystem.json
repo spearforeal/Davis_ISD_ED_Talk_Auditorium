@@ -171,7 +171,37 @@
         "CameraTopRightCtrlVisible":["True"],
         "CameraTopRightCtrlIcon":[61],
 
+        "CameraCtrl1Name":["Home"],
+        "CameraCtrl1Visible":["True"],
+        "CameraCtrl1Icon":[14],
 
+        "CameraCtrl2Name":["Tacking On"],
+        "CameraCtrl2Visible":["True"],
+        "CameraCtrl2Icon":[177],
+
+        "CameraCtrl3Name":["Tacking Off"],
+        "CameraCtrl3Visible":["True"],
+        "CameraCtrl3Icon":[172],
+
+        "CameraCtrl4Name":["Home"],
+        "CameraCtrl4Visible":["False"],
+        "CameraCtrl4Icon":[14],
+
+        "CameraCtrl5Name":["Home"],
+        "CameraCtrl5Visible":["False"],
+        "CameraCtrl5Icon":[14],
+
+        "CameraPreset1Name":["Preset 1"],
+        "CameraPreset1Visible":["True"],
+
+        "CameraPreset2Name":["Preset 2"],
+        "CameraPreset2Visible":["True"],
+
+        "CameraPreset3Name":["Preset 3"],
+        "CameraPreset3Visible":["True"],
+
+        "CameraPreset4Name":["Preset 4"],
+        "CameraPreset4Visible":["True"]
 
 
     }
