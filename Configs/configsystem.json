@@ -46,11 +46,11 @@
     "Source5Icon": ["Camera"],
     "Source5Visible": ["False"],
 
-    "Source6Name": ["Column Cam 1"],
+    "Source6Name": ["Tracking Camera"],
     "Source6Icon": ["Camera"],
     "Source6Visible": ["True"],
 
-    "Source7Name": ["Column Cam 2"],
+    "Source7Name": ["PTZ Camera"],
     "Source7Icon": ["Camera"],
     "Source7Visible": ["True"],
 
@@ -85,28 +85,28 @@
     "Dest6Visible": ["True"],
 
     "Dest7Name": ["Booth 1"],
-    "Dest7Visible": ["True"],
+    "Dest7Visible": ["false"],
 
     "Dest8Name": ["Booth 2"],
-    "Dest8Visible": ["True"],
+    "Dest8Visible": ["false"],
 
     "Dest9Name": ["Booth 3"],
-    "Dest9Visible": ["True"],
+    "Dest9Visible": ["false"],
 
     "Dest10Name": ["Booth 4"],
-    "Dest10Visible": ["True"],
+    "Dest10Visible": ["false"],
 
     "Dest11Name": ["Booth 5"],
-    "Dest11Visible": ["True"],
+    "Dest11Visible": ["false"],
 
     "Dest12Name": ["Booth 6"],
-    "Dest12Visible": ["True"],
+    "Dest12Visible": ["false"],
 
     "Dest13Name": ["Booth 7"],
-    "Dest13Visible": ["True"],
+    "Dest13Visible": ["false"],
 
     "Dest14Name": ["Booth 8"],
-    "Dest14Visible": ["True"],
+    "Dest14Visible": ["false"],
 
     "Dest15Name": ["Rear 1"],
     "Dest15Visible": ["True"],
@@ -160,10 +160,10 @@
     "Preset1Name": ["Auto"],
     "Preset2Name": ["Manual"],
 
-    "Camera1Name": ["Camera1"],
+    "Camera1Name": ["Tracking Camera"],
     "Camera1Visible": ["True"],
 
-    "Camera2Name": ["Camera2"],
+    "Camera2Name": ["PTZ Camera"],
     "Camera2Visible": ["True"],
 
     "CameraTopLeftCtrlName": ["Zoom +"],
@@ -209,21 +209,24 @@
     "CameraPreset5Name": ["Preset 5"],
     "CameraPreset5Visible": ["True"],
 
-    "Output1Route": [1],
-    "Output2Route": [1],
-    "Output3Route": [1],
-    "Output4Route": [1],
-    "Output5Route": [1],
-    "Output6Route": [1],
-    "Output7Route": [1],
-    "Output8Route": [1],
-    "Output9Route": [1],
-    "Output10Route": [1],
-    "Output11Route": [1],
-    "Output12Route": [1],
-    "Output13Route": [1],
-    "Output14Route": [1],
-    "Output15Route": [1],
-    "Output16Route": [1]
+    "Output1Route": [0],
+    "Output2Route": [0],
+    "Output3Route": [0],
+    "Output4Route": [0],
+    "Output5Route": [0],
+    "Output6Route": [0],
+    "Output7Route": [6],
+    "Output8Route": [7],
+    "Output9Route": [9],
+    "Output10Route": [0],
+    "Output11Route": [0],
+    "Output12Route": [0],
+    "Output13Route": [8],
+    "Output14Route": [4],
+    "Output15Route": [0],
+    "Output16Route": [0],
+
+    "Camera1Stream": ["rtsp://admin:8012662428@172.31.152.101:554/1.h264"],
+    "Camera2Stream": ["rtsp://admin:8012662428@172.31.152.102:554/1.h264"]
   }
 }

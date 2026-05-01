@@ -4,24 +4,24 @@ Sgntr=SGD
 RelVrs=3
 VTProeVer=6.2.02
 Schema=1
-CRCGUID=B17CDCB2-C029-453E-A933-0056C5C2F031
+CRCGUID=50A8A330-2F58-4F96-8807-DE91B68B4D8B
 ]
 ;================================================================================
 [
 ObjTp=Hd
-ProjectFile=ED_Talk_Auditorium_TSW-1070.vtp
+ProjectFile=ED_Talk_Auditorium_XPanel.vtp
 VtpGuid=3607FCFE-C640-467B-9C01-8C6EFFB9EA15
 ]
 ;================================================================================
 [
 ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_Footer_FooterPresetList.ced
+Name=ED_Talk_Auditorium_XPanel_Footer_FooterPresetList.ced
 Hint=FooterPresetList (Smart Object ID=11)
 Code=1
 SGControlType=Subpage Reference List Horizontal
 SGControlName=FooterPresetList
 GUID=60D52344-7AB9-41D9-88B3-FD2323720333
-SmplCName=ED_Talk_Auditorium_TSW-1070_Footer_FooterPresetList.ced
+SmplCName=ED_Talk_Auditorium_XPanel_Footer_FooterPresetList.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -236,7 +236,7 @@ Sgn=0
 [
 ObjTp=CED
 H=1
-Name=ED_Talk_Auditorium_TSW-1070_Footer_FooterPresetList.ced
+Name=ED_Talk_Auditorium_XPanel_Footer_FooterPresetList.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
@@ -244,13 +244,13 @@ CedVer=1
 ;================================================================================
 [
 ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[SIDE]ModeList_ModeList.ced
+Name=ED_Talk_Auditorium_XPanel_[SIDE]ModeList_ModeList.ced
 Hint=ModeList (Smart Object ID=1)
 Code=2
 SGControlType=Subpage Reference List Vertical
 SGControlName=ModeList
 GUID=1C8067D8-7C9C-4783-863F-B52595572DFA
-SmplCName=ED_Talk_Auditorium_TSW-1070_[SIDE]ModeList_ModeList.ced
+SmplCName=ED_Talk_Auditorium_XPanel_[SIDE]ModeList_ModeList.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10125
@@ -533,7 +533,7 @@ Sgn=0
 [
 ObjTp=CED
 H=2
-Name=ED_Talk_Auditorium_TSW-1070_[SIDE]ModeList_ModeList.ced
+Name=ED_Talk_Auditorium_XPanel_[SIDE]ModeList_ModeList.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
@@ -541,13 +541,13 @@ CedVer=1
 ;================================================================================
 [
 ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]Routing_RoutingPageTitle.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]Routing_RoutingPageTitle.ced
 Hint=RoutingPageTitle (Smart Object ID=3)
 Code=3
 SGControlType=Subpage Reference List Horizontal
 SGControlName=RoutingPageTitle
 GUID=3AD6C571-7E9B-41D8-A67C-1C9F8A930E40
-SmplCName=ED_Talk_Auditorium_TSW-1070_[MODE]Routing_RoutingPageTitle.ced
+SmplCName=ED_Talk_Auditorium_XPanel_[MODE]Routing_RoutingPageTitle.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -734,7 +734,7 @@ Sgn=0
 [
 ObjTp=CED
 H=3
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]Routing_RoutingPageTitle.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]Routing_RoutingPageTitle.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
@@ -742,13 +742,13 @@ CedVer=1
 ;================================================================================
 [
 ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]Routing_RoutingSourceList.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]Routing_RoutingSourceList.ced
 Hint=RoutingSourceList (Smart Object ID=2)
 Code=4
 SGControlType=Subpage Reference List Horizontal
 SGControlName=RoutingSourceList
 GUID=87EB74FC-CCAA-402C-A787-8E721F993239
-SmplCName=ED_Talk_Auditorium_TSW-1070_[MODE]Routing_RoutingSourceList.ced
+SmplCName=ED_Talk_Auditorium_XPanel_[MODE]Routing_RoutingSourceList.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -1171,7 +1171,7 @@ Sgn=0
 [
 ObjTp=CED
 H=4
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]Routing_RoutingSourceList.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]Routing_RoutingSourceList.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
@@ -1179,13 +1179,13 @@ CedVer=1
 ;================================================================================
 [
 ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]Routing_RoutingClearBtn.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]Routing_RoutingClearBtn.ced
 Hint=RoutingClearBtn (Smart Object ID=4)
 Code=5
 SGControlType=Subpage Reference List Vertical
 SGControlName=RoutingClearBtn
 GUID=24639C9F-0186-428B-A8AA-1A770A4BA75F
-SmplCName=ED_Talk_Auditorium_TSW-1070_[MODE]Routing_RoutingClearBtn.ced
+SmplCName=ED_Talk_Auditorium_XPanel_[MODE]Routing_RoutingClearBtn.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10125
@@ -1388,7 +1388,7 @@ Sgn=0
 [
 ObjTp=CED
 H=5
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]Routing_RoutingClearBtn.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]Routing_RoutingClearBtn.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
@@ -1396,13 +1396,13 @@ CedVer=1
 ;================================================================================
 [
 ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]Routing_RoutingDestList.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]Routing_RoutingDestList.ced
 Hint=RoutingDestList (Smart Object ID=5)
 Code=6
 SGControlType=Subpage Reference List Horizontal
 SGControlName=RoutingDestList
 GUID=532AC14D-40E2-4BC7-A2DA-977DA8DCB546
-SmplCName=ED_Talk_Auditorium_TSW-1070_[MODE]Routing_RoutingDestList.ced
+SmplCName=ED_Talk_Auditorium_XPanel_[MODE]Routing_RoutingDestList.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -1925,7 +1925,7 @@ Sgn=0
 [
 ObjTp=CED
 H=6
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]Routing_RoutingDestList.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]Routing_RoutingDestList.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
@@ -1933,13 +1933,13 @@ CedVer=1
 ;================================================================================
 [
 ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]AudioControlSideMenu_AudioControlSideMenu.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]AudioControlSideMenu_AudioControlSideMenu.ced
 Hint=AudioControlSideMenu (Smart Object ID=6)
 Code=7
 SGControlType=Subpage Reference List Vertical
 SGControlName=AudioControlSideMenu
 GUID=C1DADD99-25AD-421F-A094-90A761B05211
-SmplCName=ED_Talk_Auditorium_TSW-1070_[MODE]AudioControlSideMenu_AudioControlSideMenu.ced
+SmplCName=ED_Talk_Auditorium_XPanel_[MODE]AudioControlSideMenu_AudioControlSideMenu.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10125
@@ -2202,7 +2202,7 @@ Sgn=0
 [
 ObjTp=CED
 H=7
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]AudioControlSideMenu_AudioControlSideMenu.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]AudioControlSideMenu_AudioControlSideMenu.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
@@ -2210,13 +2210,13 @@ CedVer=1
 ;================================================================================
 [
 ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]AudioMicControl_AudioControlPage1Title.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]AudioMicControl_AudioControlPage1Title.ced
 Hint=AudioControlPage1Title (Smart Object ID=7)
 Code=8
 SGControlType=Subpage Reference List Horizontal
 SGControlName=AudioControlPage1Title
 GUID=1363ABF5-BD6D-4A23-A86D-4B99A54E52D1
-SmplCName=ED_Talk_Auditorium_TSW-1070_[MODE]AudioMicControl_AudioControlPage1Title.ced
+SmplCName=ED_Talk_Auditorium_XPanel_[MODE]AudioMicControl_AudioControlPage1Title.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -2403,7 +2403,7 @@ Sgn=0
 [
 ObjTp=CED
 H=8
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]AudioMicControl_AudioControlPage1Title.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]AudioMicControl_AudioControlPage1Title.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
@@ -2411,13 +2411,13 @@ CedVer=1
 ;================================================================================
 [
 ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]AudioMicControl_AudioCtrlList1.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]AudioMicControl_AudioCtrlList1.ced
 Hint=AudioCtrlList1 (Smart Object ID=9)
 Code=9
 SGControlType=Subpage Reference List Horizontal
 SGControlName=AudioCtrlList1
 GUID=55D34611-E48C-428B-9329-020A1C0E438F
-SmplCName=ED_Talk_Auditorium_TSW-1070_[MODE]AudioMicControl_AudioCtrlList1.ced
+SmplCName=ED_Talk_Auditorium_XPanel_[MODE]AudioMicControl_AudioCtrlList1.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -2860,7 +2860,7 @@ Sgn=0
 [
 ObjTp=CED
 H=9
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]AudioMicControl_AudioCtrlList1.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]AudioMicControl_AudioCtrlList1.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
@@ -2868,13 +2868,13 @@ CedVer=1
 ;================================================================================
 [
 ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]DisplayControl_DisplayControlPageTitle.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]DisplayControl_DisplayControlPageTitle.ced
 Hint=DisplayControlPageTitle (Smart Object ID=8)
 Code=10
 SGControlType=Subpage Reference List Horizontal
 SGControlName=DisplayControlPageTitle
 GUID=36327E45-CFA3-4C0E-8408-55EDCF9374EE
-SmplCName=ED_Talk_Auditorium_TSW-1070_[MODE]DisplayControl_DisplayControlPageTitle.ced
+SmplCName=ED_Talk_Auditorium_XPanel_[MODE]DisplayControl_DisplayControlPageTitle.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -3061,7 +3061,7 @@ Sgn=0
 [
 ObjTp=CED
 H=10
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]DisplayControl_DisplayControlPageTitle.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]DisplayControl_DisplayControlPageTitle.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
@@ -3069,13 +3069,13 @@ CedVer=1
 ;================================================================================
 [
 ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]DisplayControl_DisplayControlLlist.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]DisplayControl_DisplayControlLlist.ced
 Hint=DisplayControlLlist (Smart Object ID=10)
 Code=11
 SGControlType=Subpage Reference List Horizontal
 SGControlName=DisplayControlLlist
 GUID=63A9FC58-BE3C-4EB3-AE6F-79971C091148
-SmplCName=ED_Talk_Auditorium_TSW-1070_[MODE]DisplayControl_DisplayControlLlist.ced
+SmplCName=ED_Talk_Auditorium_XPanel_[MODE]DisplayControl_DisplayControlLlist.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -3354,7 +3354,7 @@ Sgn=0
 [
 ObjTp=CED
 H=11
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]DisplayControl_DisplayControlLlist.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]DisplayControl_DisplayControlLlist.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
@@ -3362,13 +3362,13 @@ CedVer=1
 ;================================================================================
 [
 ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CameraPageTitle.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CameraPageTitle.ced
 Hint=CameraPageTitle (Smart Object ID=12)
 Code=12
 SGControlType=Subpage Reference List Horizontal
 SGControlName=CameraPageTitle
 GUID=6AD4DBE7-4B87-4644-B840-41E5C1CA6794
-SmplCName=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CameraPageTitle.ced
+SmplCName=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CameraPageTitle.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -3555,7 +3555,7 @@ Sgn=0
 [
 ObjTp=CED
 H=12
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CameraPageTitle.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CameraPageTitle.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
@@ -3563,13 +3563,90 @@ CedVer=1
 ;================================================================================
 [
 ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CameraSelect.ced
-Hint=CameraSelect (Smart Object ID=14)
+Name=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_DPad.ced
+Hint=DPad (Smart Object ID=13)
 Code=13
+SGControlType=DPad
+SGControlName=DPad
+GUID=D54F25CF-03B4-4C3C-960D-44AA8A22F6E8
+SmplCName=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_DPad.ced
+SMWRev=4.02.19
+Expand=expand_random
+HelpID=10015
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=5
+MaxVariableInputs=5
+MinVariableOutputs=5
+MaxVariableOutputs=5
+NumFixedParams=1
+MinVariableInputsList2=0
+MaxVariableInputsList2=0
+MinVariableOutputsList2=0
+MaxVariableOutputsList2=0
+MinVariableInputsList3=0
+MaxVariableInputsList3=0
+MinVariableOutputsList3=0
+MaxVariableOutputsList3=0
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+OutputCue1=Up
+OutputSigType1=Digital
+InputCue2=[~UNUSED3~]
+InputSigType2=Digital
+OutputCue2=Down
+OutputSigType2=Digital
+InputCue3=[~UNUSED3~]
+InputSigType3=Digital
+OutputCue3=Left
+OutputSigType3=Digital
+InputCue4=[~UNUSED3~]
+InputSigType4=Digital
+OutputCue4=Right
+OutputSigType4=Digital
+InputCue5=[~UNUSED3~]
+InputSigType5=Digital
+OutputCue5=Center
+OutputSigType5=Digital
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=13
+CedH=13
+SmartObjId=13d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=13
+Tp=1
+HD=TRUE
+DV=13d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=13
+Name=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_DPad.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CameraSelect.ced
+Hint=CameraSelect (Smart Object ID=14)
+Code=14
 SGControlType=Subpage Reference List Horizontal
 SGControlName=CameraSelect
 GUID=02F923A3-53BF-4A57-98A8-B52B127E43F3
-SmplCName=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CameraSelect.ced
+SmplCName=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CameraSelect.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -3763,14 +3840,14 @@ OutputList3SigType14=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=13
-CedH=13
+Pp1=14
+CedH=14
 SmartObjId=14d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=13
+H=14
 Tp=1
 HD=TRUE
 DV=14d
@@ -3783,8 +3860,8 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=13
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CameraSelect.ced
+H=14
+Name=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CameraSelect.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
@@ -3792,13 +3869,13 @@ CedVer=1
 ;================================================================================
 [
 ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CamPresets.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CamPresets.ced
 Hint=CamPresets (Smart Object ID=15)
-Code=14
+Code=15
 SGControlType=Subpage Reference List Horizontal
 SGControlName=CamPresets
 GUID=FDD76A35-2C6F-4E00-BBA6-C33DBF5CA49F
-SmplCName=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CamPresets.ced
+SmplCName=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CamPresets.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10124
@@ -4040,14 +4117,14 @@ OutputList3SigType17=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=14
-CedH=14
+Pp1=15
+CedH=15
 SmartObjId=15d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=14
+H=15
 Tp=1
 HD=TRUE
 DV=15d
@@ -4060,8 +4137,8 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=14
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CamPresets.ced
+H=15
+Name=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CamPresets.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
@@ -4069,13 +4146,519 @@ CedVer=1
 ;================================================================================
 [
 ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CamCtrls.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CamTopLeftCtrl.ced
+Hint=CamTopLeftCtrl (Smart Object ID=16)
+Code=16
+SGControlType=Subpage Reference List Vertical
+SGControlName=CamTopLeftCtrl
+GUID=C8DA79B5-1D80-463A-A74B-E5801470D986
+SmplCName=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CamTopLeftCtrl.ced
+SMWRev=4.02.20
+Expand=expand_random
+HelpID=10125
+Render=8
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=4017
+MaxVariableInputs=4017
+MinVariableOutputs=4017
+MaxVariableOutputs=4017
+NumFixedParams=1
+MinVariableInputsList2=13
+MaxVariableInputsList2=13
+MinVariableOutputsList2=13
+MaxVariableOutputsList2=13
+MinVariableInputsList3=13
+MaxVariableInputsList3=13
+MinVariableOutputsList3=13
+MaxVariableOutputsList3=13
+InputSigType1=Digital
+OutputSigType1=Digital
+InputList2SigType1=Analog
+OutputList2SigType1=Analog
+InputList3SigType1=Serial
+OutputList3SigType1=Serial
+
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+InputCue2=[~UNUSED2~]
+InputSigType2=Digital
+InputCue3=[~UNUSED2~]
+InputSigType3=Digital
+InputCue4=[~UNUSED2~]
+InputSigType4=Digital
+InputCue5=[~UNUSED2~]
+InputSigType5=Digital
+InputCue6=[~UNUSED2~]
+InputSigType6=Digital
+InputCue7=[~UNUSED2~]
+InputSigType7=Digital
+InputCue8=[~UNUSED2~]
+InputSigType8=Digital
+InputCue9=[~UNUSED2~]
+InputSigType9=Digital
+InputCue10=[~UNUSED2~]
+InputSigType10=Digital
+InputCue11=[~BeginGroup~]Enable
+InputSigType11=Digital
+InputCue12=Item 1 Enable
+InputSigType12=Digital
+InputCue13=[~UNUSED2~]
+InputSigType13=Digital|Analog|Serial|String
+InputCue2012=[~EndGroup~]Enable
+InputSigType2012=Digital
+InputCue2013=[~BeginGroup~]Visible
+InputSigType2013=Digital
+InputCue2014=Item 1 Visible
+InputSigType2014=Digital
+InputCue2015=[~UNUSED2~]
+InputSigType2015=Digital|Analog|Serial|String
+InputCue4014=[~EndGroup~]Visible
+InputSigType4014=Digital
+InputCue4015=[~BeginGroup~]fb
+InputSigType4015=Digital
+InputCue4016=fb1
+InputSigType4016=Digital
+InputCue4017=[~EndGroup~]fb
+InputSigType4017=Digital
+OutputCue1=Is Moving
+OutputSigType1=Digital
+OutputCue2=[~UNUSED2~]
+OutputSigType2=Digital
+OutputCue3=[~UNUSED2~]
+OutputSigType3=Digital
+OutputCue4=[~UNUSED2~]
+OutputSigType4=Digital
+OutputCue5=[~UNUSED2~]
+OutputSigType5=Digital
+OutputCue6=[~UNUSED2~]
+OutputSigType6=Digital
+OutputCue7=[~UNUSED2~]
+OutputSigType7=Digital
+OutputCue8=[~UNUSED2~]
+OutputSigType8=Digital
+OutputCue9=[~UNUSED2~]
+OutputSigType9=Digital
+OutputCue10=[~UNUSED2~]
+OutputSigType10=Digital
+OutputCue11=[~BeginGroup~]Enable
+OutputSigType11=Digital
+OutputCue12=[~UNUSED3~]
+OutputSigType12=Digital
+OutputCue13=[~UNUSED2~]
+OutputSigType13=Digital|Analog|Serial|String
+OutputCue2012=[~EndGroup~]Enable
+OutputSigType2012=Digital
+OutputCue2013=[~BeginGroup~]Visible
+OutputSigType2013=Digital
+OutputCue2014=[~UNUSED3~]
+OutputSigType2014=Digital
+OutputCue2015=[~UNUSED2~]
+OutputSigType2015=Digital|Analog|Serial|String
+OutputCue4014=[~EndGroup~]Visible
+OutputSigType4014=Digital
+OutputCue4015=[~BeginGroup~]Press
+OutputSigType4015=Digital
+OutputCue4016=press1
+OutputSigType4016=Digital
+OutputCue4017=[~EndGroup~]Press
+OutputSigType4017=Digital
+InputList2Cue1=[~UNUSED3~]
+InputList2SigType1=Analog
+InputList2Cue2=Scroll To Item
+InputList2SigType2=Analog
+InputList2Cue3=Set Number of Items
+InputList2SigType3=Analog
+InputList2Cue4=[~UNUSED2~]
+InputList2SigType4=Analog
+InputList2Cue5=[~UNUSED2~]
+InputList2SigType5=Analog
+InputList2Cue6=[~UNUSED2~]
+InputList2SigType6=Analog
+InputList2Cue7=[~UNUSED2~]
+InputList2SigType7=Analog
+InputList2Cue8=[~UNUSED2~]
+InputList2SigType8=Analog
+InputList2Cue9=[~UNUSED2~]
+InputList2SigType9=Analog
+InputList2Cue10=[~UNUSED2~]
+InputList2SigType10=Analog
+InputList2Cue11=[~BeginGroup~]an_fb
+InputList2SigType11=Analog
+InputList2Cue12=an_fb1
+InputList2SigType12=Analog
+InputList2Cue13=[~EndGroup~]an_fb
+InputList2SigType13=Analog
+OutputList2Cue1=Item Clicked
+OutputList2SigType1=Analog
+OutputList2Cue2=[~UNUSED3~]
+OutputList2SigType2=Analog
+OutputList2Cue3=[~UNUSED3~]
+OutputList2SigType3=Analog
+OutputList2Cue4=[~UNUSED2~]
+OutputList2SigType4=Analog
+OutputList2Cue5=[~UNUSED2~]
+OutputList2SigType5=Analog
+OutputList2Cue6=[~UNUSED2~]
+OutputList2SigType6=Analog
+OutputList2Cue7=[~UNUSED2~]
+OutputList2SigType7=Analog
+OutputList2Cue8=[~UNUSED2~]
+OutputList2SigType8=Analog
+OutputList2Cue9=[~UNUSED2~]
+OutputList2SigType9=Analog
+OutputList2Cue10=[~UNUSED2~]
+OutputList2SigType10=Analog
+OutputList2Cue11=[~BeginGroup~]an_act
+OutputList2SigType11=Analog
+OutputList2Cue12=an_act1
+OutputList2SigType12=Analog
+OutputList2Cue13=[~EndGroup~]an_act
+OutputList2SigType13=Analog
+InputList3Cue1=[~UNUSED2~]
+InputList3SigType1=Serial
+InputList3Cue2=[~UNUSED2~]
+InputList3SigType2=Serial
+InputList3Cue3=[~UNUSED2~]
+InputList3SigType3=Serial
+InputList3Cue4=[~UNUSED2~]
+InputList3SigType4=Serial
+InputList3Cue5=[~UNUSED2~]
+InputList3SigType5=Serial
+InputList3Cue6=[~UNUSED2~]
+InputList3SigType6=Serial
+InputList3Cue7=[~UNUSED2~]
+InputList3SigType7=Serial
+InputList3Cue8=[~UNUSED2~]
+InputList3SigType8=Serial
+InputList3Cue9=[~UNUSED2~]
+InputList3SigType9=Serial
+InputList3Cue10=[~UNUSED2~]
+InputList3SigType10=Serial
+InputList3Cue11=[~BeginGroup~]text-o
+InputList3SigType11=Serial
+InputList3Cue12=text-o1
+InputList3SigType12=Serial
+InputList3Cue13=[~EndGroup~]text-o
+InputList3SigType13=Serial
+OutputList3Cue1=[~UNUSED2~]
+OutputList3SigType1=Serial
+OutputList3Cue2=[~UNUSED2~]
+OutputList3SigType2=Serial
+OutputList3Cue3=[~UNUSED2~]
+OutputList3SigType3=Serial
+OutputList3Cue4=[~UNUSED2~]
+OutputList3SigType4=Serial
+OutputList3Cue5=[~UNUSED2~]
+OutputList3SigType5=Serial
+OutputList3Cue6=[~UNUSED2~]
+OutputList3SigType6=Serial
+OutputList3Cue7=[~UNUSED2~]
+OutputList3SigType7=Serial
+OutputList3Cue8=[~UNUSED2~]
+OutputList3SigType8=Serial
+OutputList3Cue9=[~UNUSED2~]
+OutputList3SigType9=Serial
+OutputList3Cue10=[~UNUSED2~]
+OutputList3SigType10=Serial
+OutputList3Cue11=[~BeginGroup~]text-i
+OutputList3SigType11=Serial
+OutputList3Cue12=text-i1
+OutputList3SigType12=Serial
+OutputList3Cue13=[~EndGroup~]text-i
+OutputList3SigType13=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=16
+CedH=16
+SmartObjId=16d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=16
+Tp=1
+HD=TRUE
+DV=16d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=16
+Name=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CamTopLeftCtrl.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CamTopRightCtrl.ced
+Hint=CamTopRightCtrl (Smart Object ID=17)
+Code=17
+SGControlType=Subpage Reference List Vertical
+SGControlName=CamTopRightCtrl
+GUID=D06A33BF-5400-4F0D-8E44-29287F0B3AF2
+SmplCName=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CamTopRightCtrl.ced
+SMWRev=4.02.20
+Expand=expand_random
+HelpID=10125
+Render=8
+;Define the number of inputs, outputs and parameters
+MinVariableInputs=4017
+MaxVariableInputs=4017
+MinVariableOutputs=4017
+MaxVariableOutputs=4017
+NumFixedParams=1
+MinVariableInputsList2=13
+MaxVariableInputsList2=13
+MinVariableOutputsList2=13
+MaxVariableOutputsList2=13
+MinVariableInputsList3=13
+MaxVariableInputsList3=13
+MinVariableOutputsList3=13
+MaxVariableOutputsList3=13
+InputSigType1=Digital
+OutputSigType1=Digital
+InputList2SigType1=Analog
+OutputList2SigType1=Analog
+InputList3SigType1=Serial
+OutputList3SigType1=Serial
+
+;Define the cues, and signal types  each input, output and parameter.
+InputCue1=[~UNUSED3~]
+InputSigType1=Digital
+InputCue2=[~UNUSED2~]
+InputSigType2=Digital
+InputCue3=[~UNUSED2~]
+InputSigType3=Digital
+InputCue4=[~UNUSED2~]
+InputSigType4=Digital
+InputCue5=[~UNUSED2~]
+InputSigType5=Digital
+InputCue6=[~UNUSED2~]
+InputSigType6=Digital
+InputCue7=[~UNUSED2~]
+InputSigType7=Digital
+InputCue8=[~UNUSED2~]
+InputSigType8=Digital
+InputCue9=[~UNUSED2~]
+InputSigType9=Digital
+InputCue10=[~UNUSED2~]
+InputSigType10=Digital
+InputCue11=[~BeginGroup~]Enable
+InputSigType11=Digital
+InputCue12=Item 1 Enable
+InputSigType12=Digital
+InputCue13=[~UNUSED2~]
+InputSigType13=Digital|Analog|Serial|String
+InputCue2012=[~EndGroup~]Enable
+InputSigType2012=Digital
+InputCue2013=[~BeginGroup~]Visible
+InputSigType2013=Digital
+InputCue2014=Item 1 Visible
+InputSigType2014=Digital
+InputCue2015=[~UNUSED2~]
+InputSigType2015=Digital|Analog|Serial|String
+InputCue4014=[~EndGroup~]Visible
+InputSigType4014=Digital
+InputCue4015=[~BeginGroup~]fb
+InputSigType4015=Digital
+InputCue4016=fb1
+InputSigType4016=Digital
+InputCue4017=[~EndGroup~]fb
+InputSigType4017=Digital
+OutputCue1=Is Moving
+OutputSigType1=Digital
+OutputCue2=[~UNUSED2~]
+OutputSigType2=Digital
+OutputCue3=[~UNUSED2~]
+OutputSigType3=Digital
+OutputCue4=[~UNUSED2~]
+OutputSigType4=Digital
+OutputCue5=[~UNUSED2~]
+OutputSigType5=Digital
+OutputCue6=[~UNUSED2~]
+OutputSigType6=Digital
+OutputCue7=[~UNUSED2~]
+OutputSigType7=Digital
+OutputCue8=[~UNUSED2~]
+OutputSigType8=Digital
+OutputCue9=[~UNUSED2~]
+OutputSigType9=Digital
+OutputCue10=[~UNUSED2~]
+OutputSigType10=Digital
+OutputCue11=[~BeginGroup~]Enable
+OutputSigType11=Digital
+OutputCue12=[~UNUSED3~]
+OutputSigType12=Digital
+OutputCue13=[~UNUSED2~]
+OutputSigType13=Digital|Analog|Serial|String
+OutputCue2012=[~EndGroup~]Enable
+OutputSigType2012=Digital
+OutputCue2013=[~BeginGroup~]Visible
+OutputSigType2013=Digital
+OutputCue2014=[~UNUSED3~]
+OutputSigType2014=Digital
+OutputCue2015=[~UNUSED2~]
+OutputSigType2015=Digital|Analog|Serial|String
+OutputCue4014=[~EndGroup~]Visible
+OutputSigType4014=Digital
+OutputCue4015=[~BeginGroup~]Press
+OutputSigType4015=Digital
+OutputCue4016=press1
+OutputSigType4016=Digital
+OutputCue4017=[~EndGroup~]Press
+OutputSigType4017=Digital
+InputList2Cue1=[~UNUSED3~]
+InputList2SigType1=Analog
+InputList2Cue2=Scroll To Item
+InputList2SigType2=Analog
+InputList2Cue3=Set Number of Items
+InputList2SigType3=Analog
+InputList2Cue4=[~UNUSED2~]
+InputList2SigType4=Analog
+InputList2Cue5=[~UNUSED2~]
+InputList2SigType5=Analog
+InputList2Cue6=[~UNUSED2~]
+InputList2SigType6=Analog
+InputList2Cue7=[~UNUSED2~]
+InputList2SigType7=Analog
+InputList2Cue8=[~UNUSED2~]
+InputList2SigType8=Analog
+InputList2Cue9=[~UNUSED2~]
+InputList2SigType9=Analog
+InputList2Cue10=[~UNUSED2~]
+InputList2SigType10=Analog
+InputList2Cue11=[~BeginGroup~]an_fb
+InputList2SigType11=Analog
+InputList2Cue12=an_fb1
+InputList2SigType12=Analog
+InputList2Cue13=[~EndGroup~]an_fb
+InputList2SigType13=Analog
+OutputList2Cue1=Item Clicked
+OutputList2SigType1=Analog
+OutputList2Cue2=[~UNUSED3~]
+OutputList2SigType2=Analog
+OutputList2Cue3=[~UNUSED3~]
+OutputList2SigType3=Analog
+OutputList2Cue4=[~UNUSED2~]
+OutputList2SigType4=Analog
+OutputList2Cue5=[~UNUSED2~]
+OutputList2SigType5=Analog
+OutputList2Cue6=[~UNUSED2~]
+OutputList2SigType6=Analog
+OutputList2Cue7=[~UNUSED2~]
+OutputList2SigType7=Analog
+OutputList2Cue8=[~UNUSED2~]
+OutputList2SigType8=Analog
+OutputList2Cue9=[~UNUSED2~]
+OutputList2SigType9=Analog
+OutputList2Cue10=[~UNUSED2~]
+OutputList2SigType10=Analog
+OutputList2Cue11=[~BeginGroup~]an_act
+OutputList2SigType11=Analog
+OutputList2Cue12=an_act1
+OutputList2SigType12=Analog
+OutputList2Cue13=[~EndGroup~]an_act
+OutputList2SigType13=Analog
+InputList3Cue1=[~UNUSED2~]
+InputList3SigType1=Serial
+InputList3Cue2=[~UNUSED2~]
+InputList3SigType2=Serial
+InputList3Cue3=[~UNUSED2~]
+InputList3SigType3=Serial
+InputList3Cue4=[~UNUSED2~]
+InputList3SigType4=Serial
+InputList3Cue5=[~UNUSED2~]
+InputList3SigType5=Serial
+InputList3Cue6=[~UNUSED2~]
+InputList3SigType6=Serial
+InputList3Cue7=[~UNUSED2~]
+InputList3SigType7=Serial
+InputList3Cue8=[~UNUSED2~]
+InputList3SigType8=Serial
+InputList3Cue9=[~UNUSED2~]
+InputList3SigType9=Serial
+InputList3Cue10=[~UNUSED2~]
+InputList3SigType10=Serial
+InputList3Cue11=[~BeginGroup~]text-o
+InputList3SigType11=Serial
+InputList3Cue12=text-o1
+InputList3SigType12=Serial
+InputList3Cue13=[~EndGroup~]text-o
+InputList3SigType13=Serial
+OutputList3Cue1=[~UNUSED2~]
+OutputList3SigType1=Serial
+OutputList3Cue2=[~UNUSED2~]
+OutputList3SigType2=Serial
+OutputList3Cue3=[~UNUSED2~]
+OutputList3SigType3=Serial
+OutputList3Cue4=[~UNUSED2~]
+OutputList3SigType4=Serial
+OutputList3Cue5=[~UNUSED2~]
+OutputList3SigType5=Serial
+OutputList3Cue6=[~UNUSED2~]
+OutputList3SigType6=Serial
+OutputList3Cue7=[~UNUSED2~]
+OutputList3SigType7=Serial
+OutputList3Cue8=[~UNUSED2~]
+OutputList3SigType8=Serial
+OutputList3Cue9=[~UNUSED2~]
+OutputList3SigType9=Serial
+OutputList3Cue10=[~UNUSED2~]
+OutputList3SigType10=Serial
+OutputList3Cue11=[~BeginGroup~]text-i
+OutputList3SigType11=Serial
+OutputList3Cue12=text-i1
+OutputList3SigType12=Serial
+OutputList3Cue13=[~EndGroup~]text-i
+OutputList3SigType13=Serial
+ParamCue1=SmartObjectId
+ParamSigType1=Constant
+MPp=1
+Pp1=17
+CedH=17
+SmartObjId=17d
+]
+; Parameter Properties for Smart Object ID
+[
+ObjTp=Dp
+H=17
+Tp=1
+HD=TRUE
+DV=17d
+NF=1
+DNF=1
+EncFmt=0
+DVLF=1
+Sgn=0
+]
+; Smart Objects Definition section
+[
+ObjTp=CED
+H=17
+Name=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CamTopRightCtrl.ced
+;Cedver is the version of the Smart Graphics control, not the CED file format.
+;If the control definition changes, increment this.
+CedVer=1
+]
+;================================================================================
+[
+ObjTp=Symbol
+Name=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CamCtrls.ced
 Hint=CamCtrls (Smart Object ID=18)
-Code=15
+Code=18
 SGControlType=Subpage Reference List Vertical
 SGControlName=CamCtrls
 GUID=2A53AD44-AD66-4A3F-B224-5B8CA3592D35
-SmplCName=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CamCtrls.ced
+SmplCName=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CamCtrls.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10125
@@ -4373,14 +4956,14 @@ OutputList3SigType17=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=15
-CedH=15
+Pp1=18
+CedH=18
 SmartObjId=18d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=15
+H=18
 Tp=1
 HD=TRUE
 DV=18d
@@ -4393,591 +4976,8 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=15
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CamCtrls.ced
-;Cedver is the version of the Smart Graphics control, not the CED file format.
-;If the control definition changes, increment this.
-CedVer=1
-]
-;================================================================================
-[
-ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_DPad.ced
-Hint=DPad (Smart Object ID=13)
-Code=16
-SGControlType=DPad
-SGControlName=DPad
-GUID=D54F25CF-03B4-4C3C-960D-44AA8A22F6E8
-SmplCName=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_DPad.ced
-SMWRev=4.02.19
-Expand=expand_random
-HelpID=10015
-;Define the number of inputs, outputs and parameters
-MinVariableInputs=5
-MaxVariableInputs=5
-MinVariableOutputs=5
-MaxVariableOutputs=5
-NumFixedParams=1
-MinVariableInputsList2=0
-MaxVariableInputsList2=0
-MinVariableOutputsList2=0
-MaxVariableOutputsList2=0
-MinVariableInputsList3=0
-MaxVariableInputsList3=0
-MinVariableOutputsList3=0
-MaxVariableOutputsList3=0
-;Define the cues, and signal types  each input, output and parameter.
-InputCue1=[~UNUSED3~]
-InputSigType1=Digital
-OutputCue1=Up
-OutputSigType1=Digital
-InputCue2=[~UNUSED3~]
-InputSigType2=Digital
-OutputCue2=Down
-OutputSigType2=Digital
-InputCue3=[~UNUSED3~]
-InputSigType3=Digital
-OutputCue3=Left
-OutputSigType3=Digital
-InputCue4=[~UNUSED3~]
-InputSigType4=Digital
-OutputCue4=Right
-OutputSigType4=Digital
-InputCue5=[~UNUSED3~]
-InputSigType5=Digital
-OutputCue5=Center
-OutputSigType5=Digital
-ParamCue1=SmartObjectId
-ParamSigType1=Constant
-MPp=1
-Pp1=16
-CedH=16
-SmartObjId=13d
-]
-; Parameter Properties for Smart Object ID
-[
-ObjTp=Dp
-H=16
-Tp=1
-HD=TRUE
-DV=13d
-NF=1
-DNF=1
-EncFmt=0
-DVLF=1
-Sgn=0
-]
-; Smart Objects Definition section
-[
-ObjTp=CED
-H=16
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_DPad.ced
-;Cedver is the version of the Smart Graphics control, not the CED file format.
-;If the control definition changes, increment this.
-CedVer=1
-]
-;================================================================================
-[
-ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CamTopRightCtrl.ced
-Hint=CamTopRightCtrl (Smart Object ID=17)
-Code=17
-SGControlType=Subpage Reference List Vertical
-SGControlName=CamTopRightCtrl
-GUID=D06A33BF-5400-4F0D-8E44-29287F0B3AF2
-SmplCName=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CamTopRightCtrl.ced
-SMWRev=4.02.20
-Expand=expand_random
-HelpID=10125
-Render=8
-;Define the number of inputs, outputs and parameters
-MinVariableInputs=4017
-MaxVariableInputs=4017
-MinVariableOutputs=4017
-MaxVariableOutputs=4017
-NumFixedParams=1
-MinVariableInputsList2=13
-MaxVariableInputsList2=13
-MinVariableOutputsList2=13
-MaxVariableOutputsList2=13
-MinVariableInputsList3=13
-MaxVariableInputsList3=13
-MinVariableOutputsList3=13
-MaxVariableOutputsList3=13
-InputSigType1=Digital
-OutputSigType1=Digital
-InputList2SigType1=Analog
-OutputList2SigType1=Analog
-InputList3SigType1=Serial
-OutputList3SigType1=Serial
-
-;Define the cues, and signal types  each input, output and parameter.
-InputCue1=[~UNUSED3~]
-InputSigType1=Digital
-InputCue2=[~UNUSED2~]
-InputSigType2=Digital
-InputCue3=[~UNUSED2~]
-InputSigType3=Digital
-InputCue4=[~UNUSED2~]
-InputSigType4=Digital
-InputCue5=[~UNUSED2~]
-InputSigType5=Digital
-InputCue6=[~UNUSED2~]
-InputSigType6=Digital
-InputCue7=[~UNUSED2~]
-InputSigType7=Digital
-InputCue8=[~UNUSED2~]
-InputSigType8=Digital
-InputCue9=[~UNUSED2~]
-InputSigType9=Digital
-InputCue10=[~UNUSED2~]
-InputSigType10=Digital
-InputCue11=[~BeginGroup~]Enable
-InputSigType11=Digital
-InputCue12=Item 1 Enable
-InputSigType12=Digital
-InputCue13=[~UNUSED2~]
-InputSigType13=Digital|Analog|Serial|String
-InputCue2012=[~EndGroup~]Enable
-InputSigType2012=Digital
-InputCue2013=[~BeginGroup~]Visible
-InputSigType2013=Digital
-InputCue2014=Item 1 Visible
-InputSigType2014=Digital
-InputCue2015=[~UNUSED2~]
-InputSigType2015=Digital|Analog|Serial|String
-InputCue4014=[~EndGroup~]Visible
-InputSigType4014=Digital
-InputCue4015=[~BeginGroup~]fb
-InputSigType4015=Digital
-InputCue4016=fb1
-InputSigType4016=Digital
-InputCue4017=[~EndGroup~]fb
-InputSigType4017=Digital
-OutputCue1=Is Moving
-OutputSigType1=Digital
-OutputCue2=[~UNUSED2~]
-OutputSigType2=Digital
-OutputCue3=[~UNUSED2~]
-OutputSigType3=Digital
-OutputCue4=[~UNUSED2~]
-OutputSigType4=Digital
-OutputCue5=[~UNUSED2~]
-OutputSigType5=Digital
-OutputCue6=[~UNUSED2~]
-OutputSigType6=Digital
-OutputCue7=[~UNUSED2~]
-OutputSigType7=Digital
-OutputCue8=[~UNUSED2~]
-OutputSigType8=Digital
-OutputCue9=[~UNUSED2~]
-OutputSigType9=Digital
-OutputCue10=[~UNUSED2~]
-OutputSigType10=Digital
-OutputCue11=[~BeginGroup~]Enable
-OutputSigType11=Digital
-OutputCue12=[~UNUSED3~]
-OutputSigType12=Digital
-OutputCue13=[~UNUSED2~]
-OutputSigType13=Digital|Analog|Serial|String
-OutputCue2012=[~EndGroup~]Enable
-OutputSigType2012=Digital
-OutputCue2013=[~BeginGroup~]Visible
-OutputSigType2013=Digital
-OutputCue2014=[~UNUSED3~]
-OutputSigType2014=Digital
-OutputCue2015=[~UNUSED2~]
-OutputSigType2015=Digital|Analog|Serial|String
-OutputCue4014=[~EndGroup~]Visible
-OutputSigType4014=Digital
-OutputCue4015=[~BeginGroup~]Press
-OutputSigType4015=Digital
-OutputCue4016=press1
-OutputSigType4016=Digital
-OutputCue4017=[~EndGroup~]Press
-OutputSigType4017=Digital
-InputList2Cue1=[~UNUSED3~]
-InputList2SigType1=Analog
-InputList2Cue2=Scroll To Item
-InputList2SigType2=Analog
-InputList2Cue3=Set Number of Items
-InputList2SigType3=Analog
-InputList2Cue4=[~UNUSED2~]
-InputList2SigType4=Analog
-InputList2Cue5=[~UNUSED2~]
-InputList2SigType5=Analog
-InputList2Cue6=[~UNUSED2~]
-InputList2SigType6=Analog
-InputList2Cue7=[~UNUSED2~]
-InputList2SigType7=Analog
-InputList2Cue8=[~UNUSED2~]
-InputList2SigType8=Analog
-InputList2Cue9=[~UNUSED2~]
-InputList2SigType9=Analog
-InputList2Cue10=[~UNUSED2~]
-InputList2SigType10=Analog
-InputList2Cue11=[~BeginGroup~]an_fb
-InputList2SigType11=Analog
-InputList2Cue12=an_fb1
-InputList2SigType12=Analog
-InputList2Cue13=[~EndGroup~]an_fb
-InputList2SigType13=Analog
-OutputList2Cue1=Item Clicked
-OutputList2SigType1=Analog
-OutputList2Cue2=[~UNUSED3~]
-OutputList2SigType2=Analog
-OutputList2Cue3=[~UNUSED3~]
-OutputList2SigType3=Analog
-OutputList2Cue4=[~UNUSED2~]
-OutputList2SigType4=Analog
-OutputList2Cue5=[~UNUSED2~]
-OutputList2SigType5=Analog
-OutputList2Cue6=[~UNUSED2~]
-OutputList2SigType6=Analog
-OutputList2Cue7=[~UNUSED2~]
-OutputList2SigType7=Analog
-OutputList2Cue8=[~UNUSED2~]
-OutputList2SigType8=Analog
-OutputList2Cue9=[~UNUSED2~]
-OutputList2SigType9=Analog
-OutputList2Cue10=[~UNUSED2~]
-OutputList2SigType10=Analog
-OutputList2Cue11=[~BeginGroup~]an_act
-OutputList2SigType11=Analog
-OutputList2Cue12=an_act1
-OutputList2SigType12=Analog
-OutputList2Cue13=[~EndGroup~]an_act
-OutputList2SigType13=Analog
-InputList3Cue1=[~UNUSED2~]
-InputList3SigType1=Serial
-InputList3Cue2=[~UNUSED2~]
-InputList3SigType2=Serial
-InputList3Cue3=[~UNUSED2~]
-InputList3SigType3=Serial
-InputList3Cue4=[~UNUSED2~]
-InputList3SigType4=Serial
-InputList3Cue5=[~UNUSED2~]
-InputList3SigType5=Serial
-InputList3Cue6=[~UNUSED2~]
-InputList3SigType6=Serial
-InputList3Cue7=[~UNUSED2~]
-InputList3SigType7=Serial
-InputList3Cue8=[~UNUSED2~]
-InputList3SigType8=Serial
-InputList3Cue9=[~UNUSED2~]
-InputList3SigType9=Serial
-InputList3Cue10=[~UNUSED2~]
-InputList3SigType10=Serial
-InputList3Cue11=[~BeginGroup~]text-o
-InputList3SigType11=Serial
-InputList3Cue12=text-o1
-InputList3SigType12=Serial
-InputList3Cue13=[~EndGroup~]text-o
-InputList3SigType13=Serial
-OutputList3Cue1=[~UNUSED2~]
-OutputList3SigType1=Serial
-OutputList3Cue2=[~UNUSED2~]
-OutputList3SigType2=Serial
-OutputList3Cue3=[~UNUSED2~]
-OutputList3SigType3=Serial
-OutputList3Cue4=[~UNUSED2~]
-OutputList3SigType4=Serial
-OutputList3Cue5=[~UNUSED2~]
-OutputList3SigType5=Serial
-OutputList3Cue6=[~UNUSED2~]
-OutputList3SigType6=Serial
-OutputList3Cue7=[~UNUSED2~]
-OutputList3SigType7=Serial
-OutputList3Cue8=[~UNUSED2~]
-OutputList3SigType8=Serial
-OutputList3Cue9=[~UNUSED2~]
-OutputList3SigType9=Serial
-OutputList3Cue10=[~UNUSED2~]
-OutputList3SigType10=Serial
-OutputList3Cue11=[~BeginGroup~]text-i
-OutputList3SigType11=Serial
-OutputList3Cue12=text-i1
-OutputList3SigType12=Serial
-OutputList3Cue13=[~EndGroup~]text-i
-OutputList3SigType13=Serial
-ParamCue1=SmartObjectId
-ParamSigType1=Constant
-MPp=1
-Pp1=17
-CedH=17
-SmartObjId=17d
-]
-; Parameter Properties for Smart Object ID
-[
-ObjTp=Dp
-H=17
-Tp=1
-HD=TRUE
-DV=17d
-NF=1
-DNF=1
-EncFmt=0
-DVLF=1
-Sgn=0
-]
-; Smart Objects Definition section
-[
-ObjTp=CED
-H=17
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CamTopRightCtrl.ced
-;Cedver is the version of the Smart Graphics control, not the CED file format.
-;If the control definition changes, increment this.
-CedVer=1
-]
-;================================================================================
-[
-ObjTp=Symbol
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CamTopLeftCtrl.ced
-Hint=CamTopLeftCtrl (Smart Object ID=16)
-Code=18
-SGControlType=Subpage Reference List Vertical
-SGControlName=CamTopLeftCtrl
-GUID=C8DA79B5-1D80-463A-A74B-E5801470D986
-SmplCName=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CamTopLeftCtrl.ced
-SMWRev=4.02.20
-Expand=expand_random
-HelpID=10125
-Render=8
-;Define the number of inputs, outputs and parameters
-MinVariableInputs=4017
-MaxVariableInputs=4017
-MinVariableOutputs=4017
-MaxVariableOutputs=4017
-NumFixedParams=1
-MinVariableInputsList2=13
-MaxVariableInputsList2=13
-MinVariableOutputsList2=13
-MaxVariableOutputsList2=13
-MinVariableInputsList3=13
-MaxVariableInputsList3=13
-MinVariableOutputsList3=13
-MaxVariableOutputsList3=13
-InputSigType1=Digital
-OutputSigType1=Digital
-InputList2SigType1=Analog
-OutputList2SigType1=Analog
-InputList3SigType1=Serial
-OutputList3SigType1=Serial
-
-;Define the cues, and signal types  each input, output and parameter.
-InputCue1=[~UNUSED3~]
-InputSigType1=Digital
-InputCue2=[~UNUSED2~]
-InputSigType2=Digital
-InputCue3=[~UNUSED2~]
-InputSigType3=Digital
-InputCue4=[~UNUSED2~]
-InputSigType4=Digital
-InputCue5=[~UNUSED2~]
-InputSigType5=Digital
-InputCue6=[~UNUSED2~]
-InputSigType6=Digital
-InputCue7=[~UNUSED2~]
-InputSigType7=Digital
-InputCue8=[~UNUSED2~]
-InputSigType8=Digital
-InputCue9=[~UNUSED2~]
-InputSigType9=Digital
-InputCue10=[~UNUSED2~]
-InputSigType10=Digital
-InputCue11=[~BeginGroup~]Enable
-InputSigType11=Digital
-InputCue12=Item 1 Enable
-InputSigType12=Digital
-InputCue13=[~UNUSED2~]
-InputSigType13=Digital|Analog|Serial|String
-InputCue2012=[~EndGroup~]Enable
-InputSigType2012=Digital
-InputCue2013=[~BeginGroup~]Visible
-InputSigType2013=Digital
-InputCue2014=Item 1 Visible
-InputSigType2014=Digital
-InputCue2015=[~UNUSED2~]
-InputSigType2015=Digital|Analog|Serial|String
-InputCue4014=[~EndGroup~]Visible
-InputSigType4014=Digital
-InputCue4015=[~BeginGroup~]fb
-InputSigType4015=Digital
-InputCue4016=fb1
-InputSigType4016=Digital
-InputCue4017=[~EndGroup~]fb
-InputSigType4017=Digital
-OutputCue1=Is Moving
-OutputSigType1=Digital
-OutputCue2=[~UNUSED2~]
-OutputSigType2=Digital
-OutputCue3=[~UNUSED2~]
-OutputSigType3=Digital
-OutputCue4=[~UNUSED2~]
-OutputSigType4=Digital
-OutputCue5=[~UNUSED2~]
-OutputSigType5=Digital
-OutputCue6=[~UNUSED2~]
-OutputSigType6=Digital
-OutputCue7=[~UNUSED2~]
-OutputSigType7=Digital
-OutputCue8=[~UNUSED2~]
-OutputSigType8=Digital
-OutputCue9=[~UNUSED2~]
-OutputSigType9=Digital
-OutputCue10=[~UNUSED2~]
-OutputSigType10=Digital
-OutputCue11=[~BeginGroup~]Enable
-OutputSigType11=Digital
-OutputCue12=[~UNUSED3~]
-OutputSigType12=Digital
-OutputCue13=[~UNUSED2~]
-OutputSigType13=Digital|Analog|Serial|String
-OutputCue2012=[~EndGroup~]Enable
-OutputSigType2012=Digital
-OutputCue2013=[~BeginGroup~]Visible
-OutputSigType2013=Digital
-OutputCue2014=[~UNUSED3~]
-OutputSigType2014=Digital
-OutputCue2015=[~UNUSED2~]
-OutputSigType2015=Digital|Analog|Serial|String
-OutputCue4014=[~EndGroup~]Visible
-OutputSigType4014=Digital
-OutputCue4015=[~BeginGroup~]Press
-OutputSigType4015=Digital
-OutputCue4016=press1
-OutputSigType4016=Digital
-OutputCue4017=[~EndGroup~]Press
-OutputSigType4017=Digital
-InputList2Cue1=[~UNUSED3~]
-InputList2SigType1=Analog
-InputList2Cue2=Scroll To Item
-InputList2SigType2=Analog
-InputList2Cue3=Set Number of Items
-InputList2SigType3=Analog
-InputList2Cue4=[~UNUSED2~]
-InputList2SigType4=Analog
-InputList2Cue5=[~UNUSED2~]
-InputList2SigType5=Analog
-InputList2Cue6=[~UNUSED2~]
-InputList2SigType6=Analog
-InputList2Cue7=[~UNUSED2~]
-InputList2SigType7=Analog
-InputList2Cue8=[~UNUSED2~]
-InputList2SigType8=Analog
-InputList2Cue9=[~UNUSED2~]
-InputList2SigType9=Analog
-InputList2Cue10=[~UNUSED2~]
-InputList2SigType10=Analog
-InputList2Cue11=[~BeginGroup~]an_fb
-InputList2SigType11=Analog
-InputList2Cue12=an_fb1
-InputList2SigType12=Analog
-InputList2Cue13=[~EndGroup~]an_fb
-InputList2SigType13=Analog
-OutputList2Cue1=Item Clicked
-OutputList2SigType1=Analog
-OutputList2Cue2=[~UNUSED3~]
-OutputList2SigType2=Analog
-OutputList2Cue3=[~UNUSED3~]
-OutputList2SigType3=Analog
-OutputList2Cue4=[~UNUSED2~]
-OutputList2SigType4=Analog
-OutputList2Cue5=[~UNUSED2~]
-OutputList2SigType5=Analog
-OutputList2Cue6=[~UNUSED2~]
-OutputList2SigType6=Analog
-OutputList2Cue7=[~UNUSED2~]
-OutputList2SigType7=Analog
-OutputList2Cue8=[~UNUSED2~]
-OutputList2SigType8=Analog
-OutputList2Cue9=[~UNUSED2~]
-OutputList2SigType9=Analog
-OutputList2Cue10=[~UNUSED2~]
-OutputList2SigType10=Analog
-OutputList2Cue11=[~BeginGroup~]an_act
-OutputList2SigType11=Analog
-OutputList2Cue12=an_act1
-OutputList2SigType12=Analog
-OutputList2Cue13=[~EndGroup~]an_act
-OutputList2SigType13=Analog
-InputList3Cue1=[~UNUSED2~]
-InputList3SigType1=Serial
-InputList3Cue2=[~UNUSED2~]
-InputList3SigType2=Serial
-InputList3Cue3=[~UNUSED2~]
-InputList3SigType3=Serial
-InputList3Cue4=[~UNUSED2~]
-InputList3SigType4=Serial
-InputList3Cue5=[~UNUSED2~]
-InputList3SigType5=Serial
-InputList3Cue6=[~UNUSED2~]
-InputList3SigType6=Serial
-InputList3Cue7=[~UNUSED2~]
-InputList3SigType7=Serial
-InputList3Cue8=[~UNUSED2~]
-InputList3SigType8=Serial
-InputList3Cue9=[~UNUSED2~]
-InputList3SigType9=Serial
-InputList3Cue10=[~UNUSED2~]
-InputList3SigType10=Serial
-InputList3Cue11=[~BeginGroup~]text-o
-InputList3SigType11=Serial
-InputList3Cue12=text-o1
-InputList3SigType12=Serial
-InputList3Cue13=[~EndGroup~]text-o
-InputList3SigType13=Serial
-OutputList3Cue1=[~UNUSED2~]
-OutputList3SigType1=Serial
-OutputList3Cue2=[~UNUSED2~]
-OutputList3SigType2=Serial
-OutputList3Cue3=[~UNUSED2~]
-OutputList3SigType3=Serial
-OutputList3Cue4=[~UNUSED2~]
-OutputList3SigType4=Serial
-OutputList3Cue5=[~UNUSED2~]
-OutputList3SigType5=Serial
-OutputList3Cue6=[~UNUSED2~]
-OutputList3SigType6=Serial
-OutputList3Cue7=[~UNUSED2~]
-OutputList3SigType7=Serial
-OutputList3Cue8=[~UNUSED2~]
-OutputList3SigType8=Serial
-OutputList3Cue9=[~UNUSED2~]
-OutputList3SigType9=Serial
-OutputList3Cue10=[~UNUSED2~]
-OutputList3SigType10=Serial
-OutputList3Cue11=[~BeginGroup~]text-i
-OutputList3SigType11=Serial
-OutputList3Cue12=text-i1
-OutputList3SigType12=Serial
-OutputList3Cue13=[~EndGroup~]text-i
-OutputList3SigType13=Serial
-ParamCue1=SmartObjectId
-ParamSigType1=Constant
-MPp=1
-Pp1=18
-CedH=18
-SmartObjId=16d
-]
-; Parameter Properties for Smart Object ID
-[
-ObjTp=Dp
 H=18
-Tp=1
-HD=TRUE
-DV=16d
-NF=1
-DNF=1
-EncFmt=0
-DVLF=1
-Sgn=0
-]
-; Smart Objects Definition section
-[
-ObjTp=CED
-H=18
-Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CamTopLeftCtrl.ced
+Name=ED_Talk_Auditorium_XPanel_[MODE]CameraControl_CamCtrls.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
