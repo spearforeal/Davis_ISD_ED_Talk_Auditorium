@@ -10,7 +10,7 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_DPad.ced
 Hint=DPad (Smart Object ID=13)
-Code=16
+Code=17
 SGControlType=DPad
 SGControlName=DPad
 GUID=D54F25CF-03B4-4C3C-960D-44AA8A22F6E8
@@ -56,14 +56,14 @@ OutputSigType5=Digital
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=16
-CedH=16
+Pp1=17
+CedH=17
 SmartObjId=13d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=16
+H=17
 Tp=1
 HD=TRUE
 DV=13d
@@ -76,7 +76,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=16
+H=17
 Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_DPad.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.

@@ -10,7 +10,7 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CamTopRightCtrl.ced
 Hint=CamTopRightCtrl (Smart Object ID=17)
-Code=17
+Code=18
 SGControlType=Subpage Reference List Vertical
 SGControlName=CamTopRightCtrl
 GUID=D06A33BF-5400-4F0D-8E44-29287F0B3AF2
@@ -232,14 +232,14 @@ OutputList3SigType13=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=17
-CedH=17
+Pp1=18
+CedH=18
 SmartObjId=17d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=17
+H=18
 Tp=1
 HD=TRUE
 DV=17d
@@ -252,7 +252,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=17
+H=18
 Name=ED_Talk_Auditorium_TSW-1070_[MODE]CameraControl_CamTopRightCtrl.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.

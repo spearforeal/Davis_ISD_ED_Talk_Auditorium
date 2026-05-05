@@ -26,24 +26,24 @@
     "Mode5Icon": ["Connector Plate"],
     "Mode5Visible": ["False"],
 
-    "Source1Name": ["No longer a source"],
-    "Source1Icon": [""],
-    "Source1Visible": ["False"],
+    "Source1Name": ["South Camera"],
+    "Source1Icon": ["Camera"],
+    "Source1Visible": ["True"],
 
-    "Source2Name": ["No longer a source"],
-    "Source2Icon": [""],
-    "Source2Visible": ["False"],
+    "Source2Name": ["North Camera"],
+    "Source2Icon": ["Camera"],
+    "Source2Visible": ["True"],
 
-    "Source3Name": ["Spare"],
-    "Source3Icon": [""],
-    "Source3Visible": ["False"],
+    "Source3Name": ["Booth Face"],
+    "Source3Icon": ["Camera"],
+    "Source3Visible": ["True"],
 
-    "Source4Name": ["Stage HDMI"],
-    "Source4Icon": ["Laptop"],
-    "Source4Visible": ["true"],
+    "Source4Name": ["Not in use"],
+    "Source4Icon": [""],
+    "Source4Visible": ["false"],
 
-    "Source5Name": ["Camera 5"],
-    "Source5Icon": ["Camera"],
+    "Source5Name": ["not in use"],
+    "Source5Icon": [""],
     "Source5Visible": ["False"],
 
     "Source6Name": ["Tracking Camera"],
@@ -58,8 +58,8 @@
     "Source8Icon": ["Laptop"],
     "Source8Visible": ["True"],
 
-    "Source9Name": ["Booth Camera"],
-    "Source9Icon": ["Camera"],
+    "Source9Name": ["Floorbox HDMI"],
+    "Source9Icon": ["Laptop"],
     "Source9Visible": ["True"],
 
     "Source10Name": ["Source10"],
@@ -113,6 +113,8 @@
 
     "Dest16Name": ["Rear 2"],
     "Dest16Visible": ["True"],
+
+    "AudioDestName": ["Audio"],
 
     "AudioCtrl1SideMenuName": ["Line Controls"],
     "AudioCtrl1SideMenuVisible": ["True"],
@@ -217,14 +219,15 @@
     "Output6Route": [0],
     "Output7Route": [6],
     "Output8Route": [7],
-    "Output9Route": [9],
-    "Output10Route": [0],
-    "Output11Route": [0],
+    "Output9Route": [3],
+    "Output10Route": [1],
+    "Output11Route": [2],
     "Output12Route": [0],
     "Output13Route": [8],
-    "Output14Route": [4],
+    "Output14Route": [9],
     "Output15Route": [0],
     "Output16Route": [0],
+    "AudioOutputRoute": [0],
 
     "Camera1Stream": ["rtsp://admin:8012662428@172.31.152.101:554/1.h264"],
     "Camera2Stream": ["rtsp://admin:8012662428@172.31.152.102:554/1.h264"]
