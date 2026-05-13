@@ -115,6 +115,7 @@
     "Dest16Visible": ["True"],
 
     "AudioDestName": ["Audio"],
+    "AudioDestVisible": ["False"],
 
     "AudioCtrl1SideMenuName": ["Line Controls"],
     "AudioCtrl1SideMenuVisible": ["True"],
@@ -158,6 +159,14 @@
     "Display1Name": ["Projector"],
     "Display1Visible": ["True"],
     "Display1IsProjector": ["True"],
+
+    "Display2Name": ["Projector"],
+    "Display2Visible": ["True"],
+    "Display2IsProjector": ["False"],
+
+    "Display3Name": ["Projector"],
+    "Display3Visible": ["True"],
+    "Display3IsProjector": ["False"],
 
     "Preset1Name": ["Auto"],
     "Preset2Name": ["Manual"],
